@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Resume Maker</string>
+    <string name="preview">Preview</string>
+    <string name="personalDetails">Personal Details</string>
+    <string name="add_skill">Add Skill</string>
+    <string name="skill_1">Skill 1</string>
+    <string name="skill">Skill</string>
+    <string name="Skills">Skills</string>
+    <string name="workExperience">Work Experience</string>
+    <string name="add_achievement">Add Achievement</string>
+    <string name="achievements">Achievements</string>
+    <string name="resume_maker">Resume Maker</string>
+</resources>
